@@ -13,6 +13,7 @@ This Project use ESP8266 DeepSleep function to minimun battery usage and wake up
 
 ## Components
 - ESP8266 Micro Controller 
+- ESP32 Camera Module
 - DHT22 Temperature and Humidity *2 (for outside and insider weather station)
 - PMS5003 Particulate matter sensor 
 - Relay Modules for Shutdown power
